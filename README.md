@@ -10,7 +10,7 @@
 <h3 align="center" style="font-family: 'Source Code Pro', monospace; font-size: 20px; color:#ff5a5f;">Flutter Developer | Mobile App Enthusiast</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=najeebnaju512&theme=dark&background=0d1117&border=ff5a5f&stroke=ff5a5f&ring=ff5a5f&fire=ff5a5f&currStreakNum=ff5a5f&sideNums=ff5a5f&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="145" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammednajeebay&theme=dark&background=0d1117&border=ff5a5f&stroke=ff5a5f&ring=ff5a5f&fire=ff5a5f&currStreakNum=ff5a5f&sideNums=ff5a5f&currStreakLabel=c9d1d9&sideLabels=c9d1d9" height="145" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -40,7 +40,7 @@
     <a href="https://najeebay.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=portfolio&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="resume logo" />
   </a>
-  <a href="mailto:najeebnaju512@gmail.com" target="_blank">
+  <a href="mailto:muhammednajeeb.ay@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0d1117&logoColor=ff5a5f&style=for-the-badge" height="30" alt="email logo" />
   </a>
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
