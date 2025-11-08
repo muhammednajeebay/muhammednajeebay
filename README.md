@@ -80,16 +80,16 @@ I specialize in **Flutter**, **Dart**, and **modern state management**, focusing
 
 <p align="center">
   <a href="https://najeebay.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00bfa6?style=for-the-badge&logo=react&logoColor=white&labelColor=0A192F" height="30" />
+    <img src="https://img.shields.io/badge/Portfolio-00BFA6?style=for-the-badge&labelColor=0A192F" height="30" />
   </a>
   <a href="mailto:muhammednajeeb.ay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00bfa6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" height="30" />
+    <img src="https://img.shields.io/badge/Email-00BFA6?style=for-the-badge&labelColor=0A192F" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00bfa6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-00BFA6?style=for-the-badge&labelColor=0A192F" height="30" />
   </a>
   <a href="https://drive.google.com/file/d/10a3dqvGykoPGtaXLQJTzxykirJCRtemQ/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-00bfa6?style=for-the-badge&logo=readme&logoColor=white&labelColor=0A192F" height="30" />
+    <img src="https://img.shields.io/badge/Resume-00BFA6?style=for-the-badge&labelColor=0A192F" height="30" />
   </a>
 </p>
 
