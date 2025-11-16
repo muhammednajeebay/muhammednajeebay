@@ -105,13 +105,39 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" width="100%" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=80&section=header"/>
+</p>
+
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ItzJamesExe/Readme-Animated-Graphics/main/assets/gradient-bar.gif" width="100%" />
 </p>
 
+
+---
 
 
 <p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
