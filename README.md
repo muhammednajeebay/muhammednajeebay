@@ -7,7 +7,7 @@
 <h3 align="center" style="color:#00bfa6; font-weight:500;">Flutter Developer • Crafting Scalable, Beautiful Mobile Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFA6&center=true&vCenter=true&width=460&lines=Flutter+%7C+Dart+Developer;Clean+Architecture+Advocate;Loves+Animations+%26+State+Management;Building+Fast%2C+Reliable+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFA6&center=true&vCenter=true&width=460&lines=Flutter+%7C+Dart+Developer;Clean+Architecture+Advocate;Loves+Animations+%26+State+Management; Building+Fast%2C+Reliable+Mobile+Experiences" alt="Typing SVG" />
 </p>
 
 ---
