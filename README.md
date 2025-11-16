@@ -93,10 +93,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=react&hide_border=true&title_color=00bfa6&text_color=c9d1d9&icon_color=00bfa6" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammednajeebay&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
