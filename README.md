@@ -3,23 +3,31 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="130" alt="Animated logo"/>
 </p>
 
-<h1 align="center" style="color:#00bfa6; font-weight:700;">Hi, I'm Najeeb 🚀</h1>
-<h3 align="center" style="color:#00bfa6; font-weight:500;">Flutter Developer • Crafting Scalable, Beautiful Mobile Apps</h3>
+<h1 align="center" style="color:#00bfa6; font-weight:700;">
+  Hi, I'm Najeeb 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+</h1>
+
+<h3 align="center" style="color:#00bfa6;">Flutter Developer • Crafting Scalable, Beautiful Mobile Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFA6&center=true&vCenter=true&width=460&lines=Flutter+%7C+Developer;Clean+Architecture;Loves+Animations+%26+State+Management;Building+Reliable+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFA6&center=true&vCenter=true&width=460&lines=Flutter+Developer;Clean+Architecture;Loves+Animations+%26+State+Management;Building+Reliable+Mobile+Experiences" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElizaLo/ElizaLo/main/images/Flutter/Flutter.gif" width="100">
+  <img src="https://raw.githubusercontent.com/ElizaLo/ElizaLo/main/images/Dart/Dart.gif" width="85">
 </p>
 
 ---
 
 ## 🧭 About Me
-
 I'm a developer who enjoys building **smooth, scalable, and production-ready** mobile experiences with Flutter.  
 I obsess over **clean structure**, predictable state, sharp UI, and performance you can *feel*.
 
 - 🔍 Currently exploring **modular architecture**, **Flutter animations**, and **GraphQL**
 - 🎯 Always aiming for apps that blend strong UX with engineering precision
-- ⚡ I enjoy breaking down complex features into clean, maintainable code
+- ⚡ I enjoy breaking down complex features into maintainable code
 
 ---
 
@@ -40,30 +48,6 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
 
-### 🔹 Tools I Use  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
-</p>
-
-### 🔹 Others  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
-</p>
-
 ---
 
 ## 📊 GitHub Insights
@@ -74,7 +58,7 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammednajeebay&theme=algolia&no-frame=true&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammednajeebay&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -99,7 +83,7 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
