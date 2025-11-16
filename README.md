@@ -1,5 +1,9 @@
 <!-- Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=80&section=header"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="130" alt="Animated logo"/>
 </p>
 
@@ -105,37 +109,8 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/line.svg" width="100%" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" width="100%" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=80&section=header"/>
-</p>
-
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
-
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ItzJamesExe/Readme-Animated-Graphics/main/assets/gradient-bar.gif" width="100%" />
-</p>
-
 
 ---
 
