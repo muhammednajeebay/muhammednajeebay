@@ -108,6 +108,11 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItzJamesExe/Readme-Animated-Graphics/main/assets/gradient-bar.gif" width="100%" />
+</p>
+
+
 
 <p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
