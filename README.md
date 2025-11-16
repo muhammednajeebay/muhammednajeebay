@@ -42,6 +42,7 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
+
 ### 🔹 Tools I Use  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
@@ -54,6 +55,7 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
 </p>
+
 ### 🔹 Others  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
