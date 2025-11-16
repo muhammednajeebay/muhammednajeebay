@@ -105,8 +105,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/wave.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
+
 
 <p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
