@@ -42,7 +42,6 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
-
 ### 🔹 Tools I Use  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
@@ -55,7 +54,6 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
 </p>
-
 ### 🔹 Others  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
@@ -95,7 +93,6 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   src="https://streak-stats.vercel.app/?user=muhammednajeebay&theme=react&hide_border=true" 
   height="160"
 />
-   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammednajeebay&theme=react&background=0d1117&border=00bfa6&stroke=00bfa6&ring=00bfa6&fire=00bfa6&currStreakNum=00bfa6&sideNums=00bfa6&currStreakLabel=00bfa6&sideLabels=00bfa6" height="160"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=react&hide_border=true&title_color=00bfa6&text_color=c9d1d9&icon_color=00bfa6" height="160"/>
 </p>
 
@@ -107,11 +104,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
-
 
 <p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
