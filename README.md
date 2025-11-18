@@ -91,17 +91,8 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ## 📊 GitHub Insights
 
 <p align="center">
-<img
-  src="https://streak-stats.vercel.app/?user=muhammednajeebay
-  &theme=react
-  &hide_border=true
-  &ring=00bfa6
-  &fire=00bfa6
-  &currStreakNum=00bfa6
-  &currStreakLabel=00bfa6
-  &sideNums=00bfa6
-  &sideLabels=00bfa6
-  &dates=00bfa6"
+<img 
+  src="https://streak-stats.vercel.app/?user=muhammednajeebay&theme=react&hide_border=true" 
   height="160"
 />
    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammednajeebay&theme=react&background=0d1117&border=00bfa6&stroke=00bfa6&ring=00bfa6&fire=00bfa6&currStreakNum=00bfa6&sideNums=00bfa6&currStreakLabel=00bfa6&sideLabels=00bfa6" height="160"/> -->
