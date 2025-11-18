@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=80&section=header"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="130" alt="Animated logo"/>
-</p>
+</p> -->
 
 <h1 align="center" style="color:#00bfa6; font-weight:700;">
   Hi, I'm Najeeb 
@@ -91,7 +91,12 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammednajeebay&theme=react&background=0d1117&border=00bfa6&stroke=00bfa6&ring=00bfa6&fire=00bfa6&currStreakNum=00bfa6&sideNums=00bfa6&currStreakLabel=00bfa6&sideLabels=00bfa6" height="160"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=muhammednajeebay&theme=react&background=0d1117&border=00bfa6&stroke=00bfa6&ring=00bfa6&fire=00bfa6&currStreakNum=00bfa6&sideNums=00bfa6&currStreakLabel=00bfa6&sideLabels=00bfa6" 
+    height="160"
+  />
+</p>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=react&hide_border=true&title_color=00bfa6&text_color=c9d1d9&icon_color=00bfa6" height="160"/>
 </p>
 
