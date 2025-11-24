@@ -82,9 +82,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-00BFA6?style=for-the-badge&labelColor=0A192F" />
   </a>
-  <a href="[https://drive.google.com/file//10a3dqvGykoPGtaXLQJTzxykirJCRtemQ/view](https://drive.google.com/file/d/1uh9rLu6mFaXODgBv7bXwQJAmlT-liiEU/view)" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-00BFA6?style=for-the-badge&labelColor=0A192F" />
-  </a>
+<a href="https://drive.google.com/file/d/1uh9rLu6mFaXODgBv7bXwQJAmlT-liiEU/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-00BFA6?style=for-the-badge&labelColor=0A192F" />
+</a>
 </p>
 
 ---
