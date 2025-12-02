@@ -97,21 +97,67 @@ My work revolves around **clean architecture**, predictable state, and performan
 ## 🌐 Connect With Me  
 
 <p align="center">
+
+  <!-- PORTFOLIO -->
   <a href="https://najeebay.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=000000" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=000000" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=FFFFFF" />
+      <img alt="Portfolio" 
+           src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=FFFFFF" />
+    </picture>
   </a>
+
+  <!-- EMAIL -->
   <a href="mailto:muhammednajeeb.ay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&labelColor=000000" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&labelColor=000000" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://img.shields.io/badge/Email-000000?style=for-the-badge&labelColor=FFFFFF" />
+      <img alt="Email"
+           src="https://img.shields.io/badge/Email-000000?style=for-the-badge&labelColor=FFFFFF" />
+    </picture>
   </a>
+
+  <!-- LINKEDIN -->
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=000000" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=000000" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=FFFFFF" />
+      <img alt="LinkedIn"
+           src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=FFFFFF" />
+    </picture>
   </a>
+
+  <!-- RESUME -->
   <a href="https://drive.google.com/file/d/1HE4YXOQiKdqjnSb1n2g22ixbbA-BWKVE/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&labelColor=000000" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&labelColor=000000" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://img.shields.io/badge/Resume-000000?style=for-the-badge&labelColor=FFFFFF" />
+      <img alt="Resume"
+           src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&labelColor=FFFFFF" />
+    </picture>
   </a>
+
+  <!-- MEDIUM -->
   <a href="https://medium.com/@muhammednajeeb.ay" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&labelColor=000000" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&labelColor=000000" />
+      <source media="(prefers-color-scheme: light)"
+              srcset="https://img.shields.io/badge/Medium-000000?style=for-the-badge&labelColor=FFFFFF" />
+      <img alt="Medium"
+           src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&labelColor=FFFFFF" />
+    </picture>
   </a>
+
 </p>
 
 
@@ -120,7 +166,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 ## 📊 GitHub Insights
 
 
-### 🐍 Dynamic Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -133,7 +178,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
-### 🎬 Aesthetic Footer GIF  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
