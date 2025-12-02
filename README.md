@@ -28,7 +28,7 @@ I care about **clean structure**, predictable state, and performance that feels 
 - 🎯 Blending strong UX with engineering precision  
 - ⚡ Turning complex product requirements into maintainable code
 
----
+
 
 ## ⚙️ Core Skills
 
@@ -74,7 +74,7 @@ I care about **clean structure**, predictable state, and performance that feels 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me  
 <p align="center">
@@ -96,7 +96,7 @@ I care about **clean structure**, predictable state, and performance that feels 
 </p>
 
 
----
+
 
 ## 📊 GitHub Insights
 
