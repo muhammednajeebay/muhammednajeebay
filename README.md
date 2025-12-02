@@ -30,8 +30,6 @@
 
 
 
----
-
 ## 🧭 About Me
 I’m a developer focused on **smooth, scalable, and production-ready** mobile experiences with Flutter.  
 My work revolves around **clean architecture**, predictable state, and performance you can *feel*.
@@ -41,7 +39,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 - ⚡ Turning complex product flows into maintainable, testable code  
 
 
----
 
 ## ⚙️ Core Skills
 
@@ -60,7 +57,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
----
 
 ## 🛠 Tools I Use
 
@@ -77,7 +73,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
----
 
 ## 🧩 Others
 
@@ -92,7 +87,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
----
 
 ## 🌐 Connect With Me  
 
@@ -161,7 +155,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
----
 
 ## 📊 GitHub Insights
 
@@ -183,7 +176,6 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 
----
 
 <p align="center" style="font-family: monospace; font-size: 15px;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
