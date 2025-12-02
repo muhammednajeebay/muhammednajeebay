@@ -18,7 +18,7 @@
   />
 </p>
 
----
+
 
 ## 🧭 About Me
 I'm a developer focused on **smooth, scalable, and production-ready** mobile experiences using Flutter.  
@@ -46,7 +46,7 @@ I care about **clean structure**, predictable state, and performance that feels 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
 
----
+
 
 ## 🛠 Tools  
 
@@ -62,7 +62,6 @@ I care about **clean structure**, predictable state, and performance that feels 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
 </p>
 
----
 
 ## 🧩 Others  
 <p align="center">
