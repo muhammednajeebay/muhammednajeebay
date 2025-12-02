@@ -156,7 +156,7 @@ My work revolves around **clean architecture**, predictable state, and performan
 
 
 
-## 📊 GitHub Insights
+<!-- ## 📊 GitHub Insights -->
 
 
 <p align="center">
