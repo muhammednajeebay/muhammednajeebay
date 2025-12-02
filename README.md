@@ -100,7 +100,7 @@ I care about **clean structure**, predictable state, and performance that feels 
 
 ## 📊 GitHub Insights
 
-<p align="center">
+<!-- <p align="center">
 
   <!-- Streak Stats -->
   <img 
@@ -114,7 +114,7 @@ I care about **clean structure**, predictable state, and performance that feels 
     height="160"
   />
 
-</p>
+</p> -->
 
 <p align="center">
   <img 
