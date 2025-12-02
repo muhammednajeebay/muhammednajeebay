@@ -1,34 +1,47 @@
-<!-- Banner -->
+<!-- DYNAMIC BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=header"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=header"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header"/>
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=header"/>
+  </picture>
 </p>
 
-<h1 align="center" style="font-weight:700; color:#ffffff;">
-  Hi, I'm Najeeb 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
+<h1 align="center">
+  Hi, I'm Najeeb
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h3 align="center" style="color:#ffffff; font-weight:500;">
+<h3 align="center">
   Flutter Developer • Building Scalable & Maintainable Mobile Apps
 </h3>
 
+<!-- DYNAMIC TYPING SVG -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=460&lines=Flutter+Developer;Clean+Architecture;Predictable+State;Performance+Focused" 
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=480&lines=Flutter+Developer;Clean+Architecture;Predictable+State;Performance+Focused" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=480&lines=Flutter+Developer;Clean+Architecture;Predictable+State;Performance+Focused" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=480&lines=Flutter+Developer;Clean+Architecture;Predictable+State;Performance+Focused" />
+  </picture>
 </p>
 
 
 
+---
+
 ## 🧭 About Me
-I'm a developer focused on **smooth, scalable, and production-ready** mobile experiences using Flutter.  
-I care about **clean structure**, predictable state, and performance that feels real.
+I’m a developer focused on **smooth, scalable, and production-ready** mobile experiences with Flutter.  
+My work revolves around **clean architecture**, predictable state, and performance you can *feel*.
 
-- 🔍 Exploring **modular architecture**, **Flutter animations**, and **GraphQL**
-- 🎯 Blending strong UX with engineering precision  
-- ⚡ Turning complex product requirements into maintainable code
+- 🔍 Exploring **modular architecture**, **animations**, and **GraphQL**  
+- 🎯 Strong emphasis on UX combined with engineering discipline  
+- ⚡ Turning complex product flows into maintainable, testable code  
 
 
+---
 
 ## ⚙️ Core Skills
 
@@ -47,8 +60,9 @@ I care about **clean structure**, predictable state, and performance that feels 
 </p>
 
 
+---
 
-## 🛠 Tools  
+## 🛠 Tools I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
@@ -63,7 +77,10 @@ I care about **clean structure**, predictable state, and performance that feels 
 </p>
 
 
-## 🧩 Others  
+---
+
+## 🧩 Others
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img width="10"/>
@@ -75,8 +92,10 @@ I care about **clean structure**, predictable state, and performance that feels 
 </p>
 
 
+---
 
 ## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://najeebay.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=000000" />
@@ -96,24 +115,32 @@ I care about **clean structure**, predictable state, and performance that feels 
 </p>
 
 
-
+---
 
 ## 📊 GitHub Insights
 
-  <!-- Streak Stats -->
 
-
+### 🐍 Dynamic Contribution Snake
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="100%" 
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
+
+### 🎬 Aesthetic Footer GIF  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
-<p align="center" style="font-family: monospace; font-size: 15px; color:#ffffff;">
+
+---
+
+<p align="center" style="font-family: monospace; font-size: 15px;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
 </p>
