@@ -1,34 +1,37 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfa6&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=80&section=header"/>
 </p>
-<!-- <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="130" alt="Animated logo"/>
-</p> -->
 
-<h1 align="center" style="color:#00bfa6; font-weight:700;">
+<h1 align="center" style="font-weight:700; color:#ffffff;">
   Hi, I'm Najeeb 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 </h1>
 
-<h3 align="center" style="color:#00bfa6;">Flutter Developer • Crafting Scalable, Beautiful Mobile Apps</h3>
+<h3 align="center" style="color:#ffffff; font-weight:500;">
+  Flutter Developer • Building Scalable & Maintainable Mobile Apps
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00BFA6&center=true&vCenter=true&width=460&lines=Flutter+Developer;Clean+Architecture;Loves+Animations+%26+State+Management;Building+Reliable+Mobile+Experiences" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=460&lines=Flutter+Developer;Clean+Architecture;Predictable+State;Performance+Focused" 
+  />
 </p>
 
 ---
 
 ## 🧭 About Me
-I'm a developer who enjoys building **smooth, scalable, and production-ready** mobile experiences with Flutter.  
-I obsess over **clean structure**, predictable state, sharp UI, and performance you can *feel*.
+I'm a developer focused on **smooth, scalable, and production-ready** mobile experiences using Flutter.  
+I care about **clean structure**, predictable state, and performance that feels real.
 
-- 🔍 Currently exploring **modular architecture**, **Flutter animations**, and **GraphQL**
-- 🎯 Always aiming for apps that blend strong UX with engineering precision
-- ⚡ I enjoy breaking down complex features into maintainable code
+- 🔍 Exploring **modular architecture**, **Flutter animations**, and **GraphQL**
+- 🎯 Blending strong UX with engineering precision  
+- ⚡ Turning complex product requirements into maintainable code
 
 ---
-### 🔹 Core Skills  
+
+## ⚙️ Core Skills
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" />
   <img width="10" />
@@ -43,7 +46,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
 
-### 🔹 Tools I Use  
+---
+
+## 🛠 Tools  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
@@ -57,7 +62,9 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
 </p>
 
-### 🔹 Others  
+---
+
+## 🧩 Others  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img width="10"/>
@@ -70,22 +77,25 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 
 ---
 
-## 🌐 Connect With Me
-
+## 🌐 Connect With Me  
 <p align="center">
   <a href="https://najeebay.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00BFA6?style=for-the-badge&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&labelColor=000000" />
   </a>
   <a href="mailto:muhammednajeeb.ay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00BFA6?style=for-the-badge&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&labelColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/muhammednajeebay/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFA6?style=for-the-badge&labelColor=0A192F" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=000000" />
   </a>
-<a href="https://drive.google.com/file/d/1HE4YXOQiKdqjnSb1n2g22ixbbA-BWKVE/view" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-00BFA6?style=for-the-badge&labelColor=0A192F" />
-</a>
+  <a href="https://drive.google.com/file/d/1HE4YXOQiKdqjnSb1n2g22ixbbA-BWKVE/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&labelColor=000000" />
+  </a>
+  <a href="https://medium.com/@muhammednajeeb.ay" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&labelColor=000000" />
+  </a>
 </p>
+
 
 ---
 
@@ -93,15 +103,13 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
 
 <p align="center">
 <img 
-  src="https://streak-stats.vercel.app/?user=muhammednajeebay&theme=react&hide_border=true" 
+  src="https://streak-stats.demolab.com?user=muhammednajeebay&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
   height="160"
 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=react&hide_border=true&title_color=00bfa6&text_color=c9d1d9&icon_color=00bfa6" height="160"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff" 
+  height="160"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammednajeebay&theme=algolia&no-frame=true&margin-w=10" />
-</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -111,6 +119,6 @@ I obsess over **clean structure**, predictable state, sharp UI, and performance 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
-<p align="center" style="font-family: monospace; font-size: 15px; color:#00bfa6;">
+<p align="center" style="font-family: monospace; font-size: 15px; color:#ffffff;">
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
 </p>
