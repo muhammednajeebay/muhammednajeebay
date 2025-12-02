@@ -100,21 +100,8 @@ I care about **clean structure**, predictable state, and performance that feels 
 
 ## 📊 GitHub Insights
 
-<!-- <p align="center">
-
   <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=muhammednajeebay&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
-    height="160"
-  />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammednajeebay&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff" 
-    height="160"
-  />
-
-</p> -->
 
 <p align="center">
   <img 
