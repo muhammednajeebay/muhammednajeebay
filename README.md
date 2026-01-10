@@ -171,13 +171,13 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 <!-- 📈 GitHub Activity Graph -->
-
-  <p align="center">
+<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=minimal&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-dark&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
