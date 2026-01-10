@@ -170,11 +170,25 @@ My work revolves around **clean architecture**, predictable state, and performan
   </picture>
 </p>
 
----
-
+<!-- 📈 GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=minimal&hide_border=true" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" />
+
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-light&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
+
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-light&hide_border=true"
+      alt="GitHub Activity Graph"
+    />
+  </picture>
 </p>
+
 
 
 <p align="center">
