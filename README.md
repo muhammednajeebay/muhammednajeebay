@@ -171,6 +171,7 @@ My work revolves around **clean architecture**, predictable state, and performan
 </p>
 
 <!-- 📈 GitHub Activity Graph -->
+
 <p align="center">
   <picture>
     <!-- Dark mode -->
@@ -181,13 +182,13 @@ My work revolves around **clean architecture**, predictable state, and performan
     <source media="(prefers-color-scheme: light)"
       srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-light&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000" />
 
-    <!-- Fallback -->
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-light&hide_border=true"
       alt="GitHub Activity Graph"
     />
   </picture>
 </p>
+
 
 
 
