@@ -40,7 +40,7 @@ My work revolves around **clean architecture**, predictable state, and performan
 
 
 
-## ⚙️ Core Skills
+  <!-- ## ⚙️ Core Skills -->
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" />
@@ -58,7 +58,7 @@ My work revolves around **clean architecture**, predictable state, and performan
 
 
 
-## 🛠 Tools I Use
+  <!-- ## 🛠 Tools I Use -->
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
@@ -74,7 +74,7 @@ My work revolves around **clean architecture**, predictable state, and performan
 
 
 
-## 🧩 Others
+  <!-- ## 🧩 Others -->
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
