@@ -163,16 +163,6 @@ My work revolves around **clean architecture**, predictable state, and performan
   “Simple. Scalable. Maintainable.” — <b>Najeeb</b>
 </p>
 
-
-<!-- 📈 GitHub Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=muhammednajeebay&theme=github-dark&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
